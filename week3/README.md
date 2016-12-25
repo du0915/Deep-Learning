@@ -8,25 +8,23 @@
 - [UCM](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html) 和 [MCG](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)的相关资料的查阅([UCM博文](http://blog.csdn.net/alex_luodazhi/article/details/47337327))和相关代码及dataset的下载
 - 配置linux下matlab的环境.
 
-###  
-
-
-
+___
 ## 实践部分
 
 ### 开始调试UCM的代码
-
+___
 ## 困难与疑问
 
 - 先看了一遍UCM的相关paper,有些地方仍难以理解.
 - matlab不太熟练,需要进一步学习与练习.
-
+___
 ## 新得经验
 
 - 一定要先看近年的paper,因为可以迅速了解这个方向的现状,并且有了想法后可以根据修改其代码来进行实现.
 - 如果paper有代码,最好可以先把代码跑通.然后根据代码及paper对相关原理进行理解.
 - 在阅读paper的过程中,要明白三点:1.why? 2.innovations 3.contributions
 - 在阅读完大量相关paper后要学会做Survey:1.the researchers in this field 2.the baseline framework 3.the state of the art, meanwhile, what is the dataset
+___
 ## 下月计划(2016.12.26 ~ 2017.1.19 1月20日车票)
 
 ### 2016.12.26 ~ 2017.1.8
