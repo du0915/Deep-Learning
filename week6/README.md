@@ -26,10 +26,10 @@ ___
 - 2. video co-segmentation
 
 ### knowledge to be learned
-- 1. LSTM   - Recurrent
-- 2.<Learning to Refine Object Segments>   - how to refine?
-- 3.<Foreground segmentation via dynamic tree-structured aparse RPCA>   
-- 4.<Semantic Co-segmentation in Videos  supervised or unsupervised>   - how to solve videos?
+- 1.LSTM   - Recurrent
+- 2.Learning to Refine Object Segments   - how to refine?
+- 3.Foreground segmentation via dynamic tree-structured aparse RPCA   
+- 4.Semantic Co-segmentation in Videos  supervised or unsupervised   - how to solve videos?
 - 5.the pre-processing(预处理) of image co-segmentation(superpixel, UCM), to get the vertex.
 - 6.how to calculate the similarity graph
 - 7.machine learning(graph cut, clustering)
