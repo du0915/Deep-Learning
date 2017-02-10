@@ -20,3 +20,11 @@
 #### optical flow
 
 #### [SLIC algorithm to over-segment each frame](http://www.kev-smith.com/papers/SMITH_TPAMI12.pdf)
+
+#### k-ring graph
+
+#### the manifold ranking algorithm
+
+#### energy function
+
+#### stationary distribution
