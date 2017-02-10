@@ -1,5 +1,5 @@
-# 2017.1.19
+# 2017.2.12
 
 ## 理论部分
 
-### The survey of co-segmentation
+### 《Primary Object Segmentation in Videos via Alternate Convex Optimization of Foreground and Background Distributions》
