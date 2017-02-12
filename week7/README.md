@@ -5,7 +5,7 @@
 ### 《[Primary Object Segmentation in Videos via Alternate Convex Optimization of Foreground and Background Distributions](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jang_Primary_Object_Segmentation_CVPR_2016_paper.pdf)》
 
 - The datasets includes SegTrack, SegTrack v2, VidSeg.
-- The state-of-the-art(use the intersection over union IoU score)：
+- The state-of-the-art(use the intersection over union （IoU）score)：
 
 ![image](https://github.com/du0915/scholar/blob/master/week7/AOC%20experimental%20result.png)
 
