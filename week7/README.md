@@ -28,3 +28,8 @@
 #### energy function
 
 #### stationary distribution
+
+#### spectral cluster(The movement of an agent on a graph)
+
+#### hhjk
+
