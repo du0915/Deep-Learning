@@ -42,8 +42,13 @@
 ***
 ## 实践部分
 
-###　跑通ＡＯＣ的代码，并对应论文，了解代码的框架。
+#### 将论文里的代码跑通，并对应论文，了解代码的大体框架。
 ___
+## 遇到的问题及疑惑
+
+#### 遇到一些数学方面的知识，看起来比较困难。
+
+———
 ## 下周学习安排
 
-### 完成待学习的各知识点，算法。
+#### 完成部分待学习的知识点和算法，进一步将《Primary Object Segmentation in Videos via Alternate Convex Optimization of Foreground and Background Distributions》全面掌握。
