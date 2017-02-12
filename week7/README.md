@@ -32,4 +32,4 @@
 #### spectral cluster(The movement of an agent on a graph)
 
 #### quadratic program
-
+#### [the maximum a posteriori(MPA) criterion](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lee_Multiple_Random_Walkers_2015_CVPR_paper.pdf)
