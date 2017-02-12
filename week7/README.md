@@ -38,3 +38,9 @@
 #### convex optimization
 
 #### [Markov random field optimization scheme](http://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Zhang_Video_Object_Segmentation_2013_CVPR_paper.pdf)
+
+***
+## 实践部分
+
+###　跑通ＡＯＣ的代码
+
