@@ -15,11 +15,11 @@
 - AOC scheme, decomposes the nonconvex optimization into two quadratic programs.
 - the forward-backward strategy, ulitize the temporary correlation.
 
-### 需要学习的知识点
+### 需要学习的知识点与algorithm
 
-#### optical flow
+#### optical flow（已学习）
 
-#### [SLIC algorithm to over-segment each frame](http://www.kev-smith.com/papers/SMITH_TPAMI12.pdf)
+#### [SLIC algorithm to over-segment each frame](http://www.kev-smith.com/papers/SMITH_TPAMI12.pdf)（正在深入了解）
 
 #### k-ring graph
 
@@ -42,5 +42,8 @@
 ***
 ## 实践部分
 
-###　跑通ＡＯＣ的代码
+###　跑通ＡＯＣ的代码，并对应论文，了解代码的框架。
+___
+## 下周学习安排
 
+### 完成待学习的各知识点，算法。
