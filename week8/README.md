@@ -9,7 +9,9 @@
 ### image cosegmentation
 
 - It aims at extracting common objects from a set of image, and gives very weak prior that the image contain the same objects for automatic object segmentation.
-image foreground and background segmentation, unsupervised image segmentation, supervised image segmentation, weakly image segmentation
+![the algorithm overview of Maximum Common Subgraph Matching and Region Co-growing](https://github.com/du0915/scholar/blob/master/week8/ECCV%202016.png)
+《Image Co-segmentation using Maximum Common Subgraph Matching and Region Co-growing》（ECCV 2016）
+### unsupervised image segmentation, supervised image segmentation, weakly image segmentation
 ### superpixel generation
 
 - Superpixel algorithms aim to over-segment the image by grouping pixels that belong to the same object. Its benefit is the small region number and their relatively large spatial support.
