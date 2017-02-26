@@ -22,9 +22,15 @@
 - Superpixel algorithms aim to over-segment the image by grouping pixels that belong to the same object. Its benefit is the small region number and their relatively large spatial support.
 - As I learn, the SLIC(simple linear iterative clustering) and SEEDS(Superpixels Extracted via Energy-Driven Sampling) both are very efficient algorithms. The main idea of SLIC is the local k-means cluster. The SEEDS is based on the a simple hill-climbing optimization. Starting from an initial superpixel partitioning, it continuously refines the superpixels by modifying the boundaries.Then it defines a robust and fast to evaluate energy function, based on enforcing color similarity between the bound- aries and the superpixel color histogram. 
 
-### ![spectral clustering](https://www.cnblogs.com/sparkwen/p/3155850.html)
+### [spectral clustering](https://www.cnblogs.com/sparkwen/p/3155850.html)
 
 - 1.generate the affinity matrix
 - 2.normalized to Laplacian matrix
 - 3.get the eigenvalue and eigenvectors
 - 4.apply k-means clustering on the eigenvectors
+
+### graph-cut
+
+## 遇到的疑惑
+
+### 面对一些细节时，比如graph-cut，不明确是否该深入进行。若深入了解，感觉需要补图论的相关基础知识；若忽略掉，则部分内容看的云里雾里的。
